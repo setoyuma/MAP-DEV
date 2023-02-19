@@ -1,5 +1,5 @@
 {
-    "activeFile": "testMap.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
     "fileStates": {
@@ -59,15 +59,15 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 4069,
-                "y": -1893
+                "x": 4065,
+                "y": -1897
             }
         },
         "testMap.tmx": {
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1299,
+                "x": 1297,
                 "y": -371
             }
         }
@@ -76,14 +76,13 @@
     "last.externalTilesetPath": "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets",
     "last.imagePath": "C:/Users/theyl/GameDev/CarrotCrusader/Assets/TilePallete/anim tiles",
     "openFiles": [
-        "testMap.tmx"
     ],
     "project": "",
     "recentFiles": [
-        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx",
-        "testMap 2.tmx",
-        "C:/Users/King DeDeDumbass/Game Tileset/Tiled/Tilesets/staticTiles.tsx",
         "testMap.tmx",
+        "testMap 2.tmx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx",
+        "C:/Users/King DeDeDumbass/Game Tileset/Tiled/Tilesets/staticTiles.tsx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Floor.tsx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Ground Floor.tsx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Magma Pool Block.tsx",
