@@ -1,0 +1,50 @@
+{
+    "activeFile": "testMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Ground Floor.tsx": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Magma Pool Block.tsx": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Floor.tsx": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Drake ground.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "testMap.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1740,
+                "y": 412
+            }
+        }
+    },
+    "frame.defaultDuration": 60,
+    "last.imagePath": "C:/Users/theyl/GameDev/CarrotCrusader/Assets/TilePallete/anim tiles",
+    "openFiles": [
+        "testMap.tmx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Floor.tsx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Ground Floor.tsx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Magma Pool Block.tsx",
+        "testMap.tmx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Drake ground.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

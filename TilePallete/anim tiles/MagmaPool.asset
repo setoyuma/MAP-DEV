@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: MagmaPool
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1002997358, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 2031427620, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: -892992903, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 52854064, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: -320978100, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: -214186559, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: -1472804521, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 1688910374, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 1436290783, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 1101248183, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 1232670986, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 1381313479, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  - {fileID: 284043300, guid: 6abc67476b8ff9e4b95a689614846927, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

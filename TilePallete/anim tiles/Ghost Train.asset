@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Ghost Train
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 263390599, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: 465956014, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: -340361127, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: 656869499, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: 745138188, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: -255907319, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: 1716786894, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: -1089990640, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: -1620422860, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: -1059925584, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: -1434977526, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  - {fileID: 2096398497, guid: eebd5ac48d42e744ca45ad8907d67802, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
