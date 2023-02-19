@@ -3,13 +3,12 @@
  <tileset firstgid="1" source="../Tilesets/Anim Tiles/Magma Pool Block.tsx"/>
  <tileset firstgid="14" source="../Tilesets/Anim Tiles/Drake Ground Floor.tsx"/>
  <tileset firstgid="30" source="../Tilesets/Anim Tiles/Master Chambers Floor.tsx"/>
- <tileset firstgid="40" source="C:/Users/King DeDeDumbass/Game Tileset/Tiled/Tilesets/staticTiles.tsx"/>
- <tileset firstgid="88" source="../Tilesets/Anim Tiles/Ghost Train Floor.tsx"/>
- <tileset firstgid="100" source="../Tilesets/Anim Tiles/Haunted Prison Floor.tsx"/>
- <tileset firstgid="114" source="../Tilesets/Anim Tiles/staticTiles.tsx"/>
- <tileset firstgid="118" source="../Tilesets/Anim Tiles/Wonder Block Support.tsx"/>
- <tileset firstgid="122" source="../Tilesets/Anim Tiles/Master Chambers Sigil Support.tsx"/>
- <tileset firstgid="130" source="../Tilesets/Anim Tiles/Master's Chambers Sigil Pillar Cont.tsx"/>
+ <tileset firstgid="40" source="../Tilesets/Anim Tiles/Ghost Train Floor.tsx"/>
+ <tileset firstgid="52" source="../Tilesets/Anim Tiles/Haunted Prison Floor.tsx"/>
+ <tileset firstgid="66" source="../Tilesets/Anim Tiles/staticTiles.tsx"/>
+ <tileset firstgid="70" source="../Tilesets/Anim Tiles/Wonder Block Support.tsx"/>
+ <tileset firstgid="74" source="../Tilesets/Anim Tiles/Master Chambers Sigil Support.tsx"/>
+ <tileset firstgid="82" source="../Tilesets/Anim Tiles/Master's Chambers Sigil Pillar Cont.tsx"/>
  <layer id="2" name="terrain" width="30" height="20">
   <data encoding="csv">
    <chunk x="16" y="-16" width="16" height="16">
@@ -58,13 +57,13 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,114,114,114,114,114,
-0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,
-14,14,0,0,0,0,0,0,0,0,0,88,88,88,88,88,
+0,0,0,0,0,0,0,0,0,0,0,66,66,66,66,66,
+0,0,0,0,0,0,0,0,0,0,0,52,52,52,52,52,
+14,14,0,0,0,0,0,0,0,0,0,40,40,40,40,40,
 1,1,14,14,14,0,0,0,0,0,0,0,0,0,0,0,
 1,1,1,1,1,30,30,30,30,30,30,30,30,30,30,30,
-0,0,0,0,0,0,0,122,0,0,122,0,0,122,0,0,
-0,0,0,0,0,0,0,130,0,0,130,0,0,130,0,0
+0,0,0,0,0,0,0,74,0,0,74,0,0,74,0,0,
+0,0,0,0,0,0,0,82,0,0,82,0,0,82,0,0
 </chunk>
    <chunk x="64" y="-16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -81,11 +80,11 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </chunk>
    <chunk x="48" y="0" width="16" height="16">
-0,0,0,0,0,0,0,130,0,0,130,0,0,130,0,0,
+0,0,0,0,0,0,0,82,0,0,82,0,0,82,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -103,7 +102,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </chunk>
    <chunk x="64" y="0" width="16" height="16">
-130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

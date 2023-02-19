@@ -3,14 +3,47 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
-        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Ground Floor.tsx": {
+        "C:/Users/King DeDeDumbass/Game Tileset/Tiled/Tilesets/staticTiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Ground Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Support.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Ghost Train Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Haunted Prison Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Magma Cieling.tsx": {
+            "scaleInDock": 1
+        },
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Magma Pool Block.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Floor.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Sigil Support.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master's Chambers Sigil Pillar Cont.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Wonder Block Support.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/staticTiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
         },
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Drake ground.tsx": {
             "dynamicWrapping": true,
@@ -22,29 +55,40 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "testMap.tmx": {
-            "scale": 0.125,
+        "testMap 2.tmx": {
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1740,
-                "y": 412
+                "x": 4069,
+                "y": -1893
+            }
+        },
+        "testMap.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1299,
+                "y": -371
             }
         }
     },
     "frame.defaultDuration": 60,
+    "last.externalTilesetPath": "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets",
     "last.imagePath": "C:/Users/theyl/GameDev/CarrotCrusader/Assets/TilePallete/anim tiles",
     "openFiles": [
-        "testMap.tmx",
-        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx"
+        "testMap.tmx"
     ],
     "project": "",
     "recentFiles": [
-        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Floor.tsx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/staticTiles.tsx",
+        "testMap 2.tmx",
+        "C:/Users/King DeDeDumbass/Game Tileset/Tiled/Tilesets/staticTiles.tsx",
+        "testMap.tmx",
+        "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Master Chambers Floor.tsx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Drake Ground Floor.tsx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Anim Tiles/Magma Pool Block.tsx",
-        "testMap.tmx",
         "C:/Users/theyl/GameDev/CarrotCrusader/Assets/Tiled/Tilesets/Drake ground.tsx"
     ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
 }

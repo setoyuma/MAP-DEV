@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="1200" height="33" tilewidth="32" tileheight="32" infinite="1" nextlayerid="5" nextobjectid="1">
- <tileset firstgid="1" source="C:/Users/King DeDeDumbass/Game Tileset/Tiled/Tilesets/staticTiles.tsx"/>
+ <tileset firstgid="1" source="../Tilesets/staticTiles.tsx"/>
  <tileset firstgid="55" source="../Tilesets/Anim Tiles/Magma Pool Block.tsx"/>
  <tileset firstgid="68" source="../Tilesets/Anim Tiles/Drake Ground Floor.tsx"/>
  <tileset firstgid="84" source="../Tilesets/Anim Tiles/Drake Support.tsx"/>

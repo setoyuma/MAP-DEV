@@ -10,7 +10,19 @@ ScriptedImporter:
   script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
   missingFiles: []
   errors: []
-  warnings: []
+  warnings:
+  - Pixels Per Unit mismatch between map (32) and tileset '../Tilesets/Anim Tiles/Ghost
+    Train Floor.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset '../Tilesets/Anim Tiles/Haunted
+    Prison Floor.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset '../Tilesets/Anim Tiles/staticTiles.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset '../Tilesets/Anim Tiles/Wonder
+    Block Support.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset '../Tilesets/Anim Tiles/Master
+    Chambers Sigil Support.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset '../Tilesets/Anim Tiles/Master's
+    Chambers Sigil Pillar Cont.tsx' (100)
   missingSortingLayers: []
   missingLayers: []
   missingTags: []
